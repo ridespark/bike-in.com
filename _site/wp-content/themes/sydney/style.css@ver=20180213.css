@@ -28,7 +28,7 @@ Social
 .widget-area .widget_fp_social a,
 .social-menu-widget a,
 .social-menu-widget a:hover {
-	color: #d65050;
+	color: #30BFBF;
 }
 .social-menu-widget li {
 	display: inline-block;
@@ -304,7 +304,7 @@ Content
 	content: '';
 }
 .single .hentry .meta-post a {
-	color: #d65050;
+	color: #30BFBF;
 }
 /*--------------------------------------------------------------
 Asides
@@ -770,7 +770,7 @@ Header
 		outline: none;
 	}
 	#mainnav ul li a:hover {
-		color: #d65050;
+		color: #30BFBF;
 	}
 	#mainnav ul ul a {
 		width: 180px;
@@ -1418,7 +1418,7 @@ Blog
 		font-weight: 500;
 	}
 	.classic-alt .entry-title a {
-		color: #47425d;
+		color: #48736F;
 	}
 	.classic-alt .meta-post {
 		margin-bottom: 10px;
@@ -1448,7 +1448,7 @@ Blog
 		padding-left: 10px;
 	}
 	.classic-alt .meta-post a {
-		color: #d65050;
+		color: #30BFBF;
 	}	
 /*--------------------------------------------------------------
 Widgets
@@ -1604,7 +1604,7 @@ Blog single
 		display: inline-block;
 		background-color: #f7f7f7;
 		padding: 8px 30px;
-		color: #47425d;
+		color: #48736F;
 		margin: 0 5px;
 		font-size: 12px;
 		text-transform: uppercase;
@@ -1970,7 +1970,7 @@ Panels
 		width: 50px;
 		height: 1px;
 		margin-left: -25px;
-		background-color: #d65050;
+		background-color: #48736F;
 	}
 	.panel-grid {
 		max-width: 1170px;
@@ -2119,7 +2119,7 @@ Panels
 -------------------------------------------------------------- */
 
 .sydney_contact_info_widget span {
-	color: #d65050;
+	color: #30BFBF;
 	margin-right: 15px;
 }
 .sydney_contact_info_widget div {
@@ -2872,8 +2872,8 @@ Panels
 		background-color: #fff;
 	}
 	.archive .team-social li a {
-		color: #d65050;
-		border: 1px solid #d65050;
+		color: #30BFBF;
+		border: 1px solid #30BFBF;
 	}
 	.roll-team .team-item .team-pop {
 		color: #fff;
@@ -2926,25 +2926,25 @@ Panels
 /* Elements
 -------------------------------------------------------------- */
 	a {
-		color: #d65050;
+		color: #48736F;
 	}
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-		color: #d65050;
+		color: #48736F;
 	}
-	.text-color { color: #d65050;}
+	.text-color { color: #48736F;}
 	button,
 	input[type="button"],
 	input[type="reset"],
 	input[type="submit"] {
-		background-color: #d65050;
-		border: 1px solid #d65050;
+		background-color: #30BFBF;
+		border: 1px solid #30BFBF;
 	}
 	button:hover,
 	input[type="button"]:hover,
 	input[type="reset"]:hover,
 	input[type="submit"]:hover {
 		background-color: transparent;
-		color: #d65050;
+		color: #30BFBF;
 	}
 	textarea:focus,
 	input[type="text"]:focus,
@@ -2961,143 +2961,143 @@ Panels
 	input[type="search"]:focus,
 	input[type="tel"]:focus,
 	input[type="color"]:focus {
-		border: 1px solid #d65050;
+		border: 1px solid #30BFBF;
 	}
 	#mainnav > ul > li > a.active,
 	#mainnav > ul > li > a:hover {
-		color: #d65050;
+		color: #30BFBF;
 	}
 	#mainnav ul li ul:after {
-		background-color: #d65050;
+		background-color: #30BFBF;
 		transition: all 0.3s ease;
 		-webkit-transition: all 0.3s ease;
 	}
 	#mainnav .sub-menu li:hover > a {
-		background-color: #d65050;
+		background-color: #30BFBF;
 	}
 	.error-wrap #search-submit:hover {
-		background-color: #d65050;
-		border-color: #d65050;
+		background-color: #30BFBF;
+		border-color: #30BFBF;
 	}
 	.text-slider .maintitle:after {
-		background-color: #d65050;
+		background-color: #30BFBF;
 	}
 	.content-area .hentry:after {
-		background-color: #d65050;
+		background-color: #30BFBF;
 	}
 	.hentry .meta-post a:hover {
-		color: #d65050;
+		color: #30BFBF;
 	}
 	.hentry blockquote {
-	    border-left: 3px solid #d65050;
+	    border-left: 3px solid #30BFBF;
 	}
 	.blog-pagination ul li {
-		border: 1px solid #d65050;
+		border: 1px solid #30BFBF;
 	}
 	.blog-pagination ul li.active,
 	.blog-pagination ul li:hover a {
-		background-color: #d65050;
+		background-color: #30BFBF;
 	}
 	.sidebar .widget:before {
-		background-color: #d65050;
+		background-color: #30BFBF;
 	}
 	.widget-tags .tag-list a:hover {
-		border: 1px solid #d65050;
+		border: 1px solid #30BFBF;
 	}
 	.comment .comment-detail {
-		border: 1px solid #d65050;
+		border: 1px solid #30BFBF;
 	}
 	.bottom .socials li:hover a,
 	.go-top {
-		background-color: #d65050;
+		background-color: #30BFBF;
 	}
 	.go-top:hover {
-		color: #d65050;
+		color: #30BFBF;
 	}
 	.switcher-container .switcher-icon a:focus {
-		color: #d65050;
+		color: #30BFBF;
 	}
 	.owl-theme .owl-controls .owl-page span{
-	  border: 2px solid #d65050;
+	  border: 2px solid #30BFBF;
 	}
 	.owl-theme .owl-controls .owl-page.active span,
 	.owl-theme .owl-controls.clickable .owl-page:hover span{
-	  background-color: #d65050;
+	  background-color: #30BFBF;
 	}
 	.roll-icon-box .icon {
-		border: 1px solid #d65050;
+		border: 1px solid #30BFBF;
 	}
 	.roll-icon-box .icon i,
 	.roll-icon-box .content h3 a:hover {
-		color: #d65050;
+		color: #30BFBF;
 	}
 	.roll-icon-box.white .icon {
-		background-color: #d65050;
+		background-color: #30BFBF;
 	}
 	.roll-icon-box.white .content h3 a {
-		color: #d65050;
+		color: #30BFBF;
 	}
 	.roll-icon-list .icon {
-		border: 1px solid #d65050;
+		border: 1px solid #30BFBF;
 	}
 	.roll-icon-list .icon i,
 	.roll-icon-list .content h3 a:hover {
-		color: #d65050;
+		color: #30BFBF;
 	}
 	.roll-button {
-		background-color: #d65050;
-		border: 1px solid #d65050;
+		background-color: #30BFBF;
+		border: 1px solid #30BFBF;
 	}
 	.roll-button:hover {
-		color: #d65050;
+		color: #30BFBF;
 	}
 	.roll-button.border {
-		color: #d65050;
-		border: 1px solid #d65050;
+		color: #30BFBF;
+		border: 1px solid #30BFBF;
 	}
 	.roll-button.border:hover {
-		background-color: #d65050;
+		background-color: #30BFBF;
 	}
 	.roll-button.light:hover {
-		border: 1px solid #d65050;
-		background-color: #d65050;
+		border: 1px solid #30BFBF;
+		background-color: #30BFBF;
 	}
 	.project-filter li a.active,
 	.project-filter li a:hover {
-		background-color: #d65050;
+		background-color: #30BFBF;
 	}
 	.roll-testimonials .name {
 		font-family: "Raleway", sans-serif;
 		font-size: 18px;
 		font-weight: 500;
-		color: #d65050;
+		color: #30BFBF;
 	}
 	.roll-project .project-item .project-pop {
-		background-color: #d65050;
+		background-color: #30BFBF;
 	}
 	.roll-socials li a {
-		border: 1px solid #d65050;
+		border: 1px solid #30BFBF;
 	}
 	.roll-socials li a:hover {
-		background-color: #d65050;
-		border: 1px solid #d65050;
+		background-color: #30BFBF;
+		border: 1px solid #30BFBF;
 	}
 	.roll-infomation li.address:before,
 	.roll-infomation li.phone:before,
 	.roll-infomation li.email:before {
-		color: #d65050;
+		color: #30BFBF;
 	}
 	.roll-progress .progress-animate {
-		background-color: #d65050;
+		background-color: #30BFBF;
 	}
 	.roll-team .team-item .team-pop .team-social li:hover a {
-		color: #d65050;
+		color: #30BFBF;
 	}
 	.roll-team .team-item .team-pop {
-		background-color: #d65050;
+		background-color: #30BFBF;
 	}
 	.roll-team .team-content .name {
-		color: #d65050;
+		color: #30BFBF;
 	}
 /* Woocommerce basic - full styles in wc.css
 -------------------------------------------------------------- */
@@ -3105,7 +3105,7 @@ Panels
 .woocommerce a.button,
 .woocommerce button.button,
 .woocommerce input.button {
-	background-color: #d65050;
+	background-color: #30BFBF;
 }
 .cart-contents {
 	position: relative;
@@ -3115,7 +3115,7 @@ Panels
 	font-size: 18px;
 }
 .cart-amount {
-    background-color: #d65050;
+    background-color: #30BFBF;
     font-size: 12px;
     display: block;
     width: 18px;
